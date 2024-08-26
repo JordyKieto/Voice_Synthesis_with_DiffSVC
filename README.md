@@ -26,3 +26,8 @@ Enjoy exploring the power of Diff-SVC and the possibilities of personalized voic
 
 * [Tems - Higher](https://on.soundcloud.com/FatUMTk8Y83UgwsWA)
 * [Miley Cyrus - Flowers](https://on.soundcloud.com/ZgXzwTq7E7C6fX3E9)
+
+<p align="center">
+  <a href="https://on.soundcloud.com/FatUMTk8Y83UgwsWA"><img src="79073f63-aebd-4239-855b-1b4e6fd06e55_1267x1592.jpg" width="350" title="hover text"></a>
+  <a href="https://on.soundcloud.com/ZgXzwTq7E7C6fX3E9"><img src="N_4GgJ-0_400x400.jpg" width="350" title="hover text"></a>
+</p>
