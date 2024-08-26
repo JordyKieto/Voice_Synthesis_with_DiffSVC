@@ -24,5 +24,5 @@ Enjoy exploring the power of Diff-SVC and the possibilities of personalized voic
 
 ## AI Covers
 
-[Tems - Higher](https://on.soundcloud.com/FatUMTk8Y83UgwsWA)
-[Miley Cyrus - Flowers](https://on.soundcloud.com/ZgXzwTq7E7C6fX3E9)
+* [Tems - Higher](https://on.soundcloud.com/FatUMTk8Y83UgwsWA)
+* [Miley Cyrus - Flowers](https://on.soundcloud.com/ZgXzwTq7E7C6fX3E9)
